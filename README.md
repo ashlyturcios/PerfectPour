@@ -67,7 +67,7 @@ The predictions-vs-actual plot makes the improvement visually obvious: later mod
 A quality score alone doesn't help a customer standing at a counter. So we built **PerfectPour**, an interactive app that turns the model into something usable:
 
 <img src="images/perfectpour_logo.png" width="450" alt="PerfectPour logo">
-<br><sub>🔗 <a href="#">Try the live demo</a> ([link goes here once deployed](https://perfectpour-dhxnqsf2mimrjc8ejipcz9.streamlit.app/#thinking-bigger-perfect-pour-across-coffee-brands))</sub>
+<br><sub>🔗 <a href="https://perfectpour-dhxnqsf2mimrjc8ejipcz9.streamlit.app/">Try the live demo</a></sub>
 
 1. **Your Preferences**: user rates their taste/aroma preference, acidity tolerance, sweetness level, and typical café order
 2. **Where You Fall**: visualizes their taste profile against common drink styles (e.g., how they compare on an acidity-vs-sweetness map)
